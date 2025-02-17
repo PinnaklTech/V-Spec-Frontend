@@ -205,7 +205,7 @@ const GetStarted = () => {
     formData.append('message', message);
 
     try {
-      const response = await fetch('https://v-spec-backend.onrender.com', {
+      const response = await fetch('https://v-spec-backend.onrender.com/send-email', {
         method: 'POST',
         body: formData,
       });
