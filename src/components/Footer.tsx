@@ -102,7 +102,7 @@ export function Footer() {
               href="mailto:Vspec@outlook.com"
               className="text-gray-700 dark:text-gray-300 hover:text-black dark:hover:text-white transition-colors font-medium"
             >
-              Vspec@outlook.com
+              V.spec@outlook.com
             </a>
           </div>
 
