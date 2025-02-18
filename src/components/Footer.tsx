@@ -99,7 +99,7 @@ export function Footer() {
           <div className="flex items-center space-x-2">
             <Mail className="h-5 w-5 text-gray-600 dark:text-gray-400" />
             <a
-              href="mailto:Vspec@outlook.com"
+              href="mailto:V.spec@outlook.com"
               className="text-gray-700 dark:text-gray-300 hover:text-black dark:hover:text-white transition-colors font-medium"
             >
               V.spec@outlook.com
