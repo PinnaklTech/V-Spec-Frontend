@@ -135,7 +135,7 @@ export function Hero() {
           {...fadeIn}
           className="text-3xl sm:text-5xl font-bold text-[#2A4D8C] dark:text-[#A8C0F0]"
         >
-          <span className="text-[#4B6FBF] dark:text-[#BDD0FF]">V-Spec</span>
+          <span className="text-[#4B6FBF] dark:text-[#BDD0FF]">Vdospec</span>
           <span className="block text-[#1F3A67] dark:text-[#DEE9FF] mt-2">
             Your go-to resource for manufacturing specifications
           </span>
